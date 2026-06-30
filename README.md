@@ -43,7 +43,7 @@ The application integrates with external APIs to detect email/password breaches 
 ### 📈 Privacy Report
 Shows malware count, safe applications, breach statistics, phishing reports, and graphical risk analysis.
 
-![Privacy Report](screenshots/privacy_report.jpg)
+![Privacy Report](screenshots/privacy_report_.jpg)
 
 ---
 
