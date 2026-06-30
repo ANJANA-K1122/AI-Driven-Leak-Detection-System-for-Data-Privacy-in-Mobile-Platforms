@@ -26,7 +26,7 @@ A Flutter-based mobile application that uses AI to analyze Android application p
 ![Permission Analysis](screenshots/permission_analysis.jpg)
 
 ### API Integration (Breach Checker & Phishing Detection)
-![API Integration](screenshots/api%20integration.jpg)
+![API Integration](screenshots/api_integration.jpg)
 
 ### Privacy Report
 ![Privacy Report](screenshots/privacy_report.jpg)
