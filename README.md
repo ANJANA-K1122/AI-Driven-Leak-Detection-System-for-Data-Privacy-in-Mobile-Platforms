@@ -17,5 +17,22 @@ A Flutter-based mobile application that uses AI to analyze Android application p
 - REST API
 - Machine Learning
 
+## 📱 Application Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.jpg)
+
+### Permission Analysis
+![Permission Analysis](screenshots/permission_analysis.jpg)
+
+### API Integration (Breach Checker & Phishing Detection)
+![API Integration](screenshots/api%20integration.jpg)
+
+### Privacy Report
+![Privacy Report](screenshots/privacy_report.jpg)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin_dashboard.jpg)
+
 ## 👥 Team Project
 Developed as a B.Tech Final Year Project.
