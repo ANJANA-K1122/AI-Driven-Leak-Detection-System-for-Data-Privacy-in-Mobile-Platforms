@@ -36,7 +36,7 @@ Displays detailed permission analysis, AI-based malware prediction, confidence s
 ### 🌐 API Integration (Breach Checker & Phishing Detection)
 The application integrates with external APIs to detect email/password breaches and identify phishing URLs.
 
-![API Integration](screenshots/api%20integration.jpg)
+![API Integration](screenshots/api_integration.jpg)
 
 ---
 
