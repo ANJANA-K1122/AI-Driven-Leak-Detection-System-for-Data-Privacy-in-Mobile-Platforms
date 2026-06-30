@@ -19,19 +19,37 @@ A Flutter-based mobile application that uses AI to analyze Android application p
 
 ## 📱 Application Screenshots
 
-### Dashboard
-![Dashboard](screenshots/dashboard.jpg)
+### 📊 Privacy Dashboard
+The dashboard provides an overview of scanned applications, privacy score, malware detection results, and risk distribution.
 
-### Permission Analysis
+![Privacy Dashboard](screenshots/dashboard.jpg)
+
+---
+
+### 🔍 Permission Analysis
+Displays detailed permission analysis, AI-based malware prediction, confidence score, and security recommendations.
+
 ![Permission Analysis](screenshots/permission_analysis.jpg)
 
-### API Integration (Breach Checker & Phishing Detection)
-![API Integration](screenshots/api_integration.jpg)
+---
 
-### Privacy Report
+### 🌐 API Integration (Breach Checker & Phishing Detection)
+The application integrates with external APIs to detect email/password breaches and identify phishing URLs.
+
+![API Integration](screenshots/api%20integration.jpg)
+
+---
+
+### 📈 Privacy Report
+Shows malware count, safe applications, breach statistics, phishing reports, and graphical risk analysis.
+
 ![Privacy Report](screenshots/privacy_report.jpg)
 
-### Admin Dashboard
+---
+
+### 🖥️ Admin Dashboard
+Admin panel used for APK upload, application management, and malware dataset administration.
+
 ![Admin Dashboard](screenshots/admin_dashboard.jpg)
 
 ## 👥 Team Project
